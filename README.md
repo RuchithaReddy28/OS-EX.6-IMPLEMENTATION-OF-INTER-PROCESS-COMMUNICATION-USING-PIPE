@@ -48,7 +48,7 @@ int main() {
 ```
 
 ## OUTPUT:
-https://github.com/SETTY-POOJITHA-AI/OS-EX.6-IMPLEMENTATION-OF-INTER-PROCESS-COMMUNICATION-USING-PIPE/blob/main/system.png
+![output](https://github.com/SETTY-POOJITHA-AI/OS-EX.6-IMPLEMENTATION-OF-INTER-PROCESS-COMMUNICATION-USING-PIPE/blob/main/system.png)
 
 ## RESULT:
 Thus the program for implementing inter process communication using pipe was written and the output was verified.
